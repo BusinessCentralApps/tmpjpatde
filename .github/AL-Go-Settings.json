@@ -1,5 +1,9 @@
 {
   "type": "PTE",
+  "runs-on": "ubuntu-latest",
   "templateUrl": "https://github.com/businesscentralapps/tmpmhCk42-PTE@main",
+  "UseCompilerFolder": true,
+  "gitHubRunner": "ubuntu-latest",
+  "doNotPublishApps": true,
   "MicrosoftTelemetryConnectionString": ""
 }
